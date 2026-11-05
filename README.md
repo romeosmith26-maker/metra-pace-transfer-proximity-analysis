@@ -124,4 +124,4 @@ Potential extensions include:
 
 Romeo Smith  
 Northern Illinois University  
-Earth, Atmosphere and Environment — Geospatial Systems
+B.S. Earth, Atmosphere and Environment — Geospatial Systems concentration
