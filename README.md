@@ -104,7 +104,7 @@ Scheduled weekday trip counts describe service available at stops within each ca
 
 ### Station Proximity Maps
 
-![Metra–Pace station maps](Metra_Pace_Analysis_Page1.png)
+![Metra–Pace station maps](Metra_Pace_Analysis_Page1.png.)
 
 ### Results & Implications
 
