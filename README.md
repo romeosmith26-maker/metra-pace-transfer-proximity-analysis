@@ -104,12 +104,11 @@ Scheduled weekday trip counts describe service available at stops within each ca
 
 ### Station Proximity Maps
 
-![Metra–Pace station maps](maps/Metra_Pace_Analysis_Page1.png)
+![Metra–Pace station maps](Metra+Pace%20Connectivity%20Page%201.png)
 
 ### Results & Implications
 
-![Metra–Pace results](maps/Metra_Pace_Analysis_Page2.png)
-
+![Metra–Pace results](Pace+Connectivity%20Page%202.png)
 ## Future Improvements
 
 Potential extensions include:
